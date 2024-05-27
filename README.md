@@ -1,5 +1,7 @@
 # Description
 
+⚠️This script was written and testet in 2021 with Python 3.9 or later.
+
 Python script for creating a report from Outlook responses with the numbers of positiv, negative and tentative responses.
 
 ## What is it about?
