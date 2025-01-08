@@ -15,7 +15,7 @@ This programm exports the following information from meeting responses in Micros
 
 * first and last name as well as id of employee
 * name and date of an event
-* kind of respone (positive, negative or tentative)
+* kind of response (positive, negative or tentative)
 
 New data will be appended to table within the Excel file.
 
